@@ -20,3 +20,6 @@ pip install pypickle
 <div align="center">
   <img width="777" alt="image" src="https://github.com/huydaker/ComputerVision/assets/92807267/4a7030db-6385-43ac-82cb-d8291000d902">
 </div>
+<div align="center">
+<h4>🎉 Have a nice day 🎉🎉</h4>
+</div>
